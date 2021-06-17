@@ -1,0 +1,10 @@
+{
+	"zerone" : {
+		"password" : "12345",
+		"level" : "root"
+	},
+	"bigp" : {
+		"password" : "qwerty",
+		"level" : "user"
+	}
+}
